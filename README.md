@@ -32,7 +32,7 @@
 
 ![Paso12](Alphine/Paso12.png "Paso 12")
 
-###Por ultimo tenemos que apagacr la maquina cambiar el adaptador de red y en sistemas quitar el orden de arranque optico y disquete
+###Por ultimo tenemos que apagacr la maquina cambiar el adaptador de red y en sistemas quitar el orden de arranque optico y disquete y ya tendriamos instalado el alpine
 ![Paso13](Alphine/Paso13.png "Paso 13")
 
 ![Paso14](Alphine/Paso14.png "Paso 14")
